@@ -1,0 +1,20 @@
+1)  How to look where are you - pwd 
+2)  How to make a papka - mkdir git_homework
+3)  Enter to the papka - cd git_homework
+4)  Make a 3 papka mkdir - papka1 papka2 papka3
+5)  Enter to any papka - cd papka1
+6)  Create 5 files 3 of them txt format and 2 os them json - touch oppa1.txt oppa2.txt oppa3.txt oppa1.json oppa2.json
+7)  Create 3 papkas - mkdir pip1 pip2 pip3
+8)  Show me papkas list - ls -la
+9)  Open the any file of format txt - vim oppa1.txt
+10) Write some text 
+11) Save and quit - press ESC, then press SHIFT AND : , then wq , theN ENTER.
+12) Quit from papka to level up - cd ..
+13) Remuve two any files to another papka - mv oppa1.json oppa2.json /c/Users/Name/Desktop/git_homework/papka2 
+14) Copy any two files to files to another - cp oppa1.json oppa2.json pip1
+15) Found file by the name - find -name oppa1.txt
+16) View content at real time - cat oppa1.txt
+17) View some first lines from file - head -5 oppa1.txt  
+18) Viev some last lines from file - tail -5 oppa1.txt
+19) view content from the long file - less oppa1.txt
+20) View data and time - date
