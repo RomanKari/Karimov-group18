@@ -1,2 +1,2 @@
-# Karimov-group18
+# Linux terminal
 First lesson 
